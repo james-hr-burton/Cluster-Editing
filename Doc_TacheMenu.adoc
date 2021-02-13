@@ -1,0 +1,15 @@
+= Tâche Menu, itération 1
+
+Dahuiss AMOUSSOU, James BURTON
+
+:icons: font
+
+_Notre tâche consiste à mettre en place un digramme permettant au joueur d'avoir 
+accès au menu afin de choisir l'un des jeu._
+
+Notre diagramme contient donc une methode : 
+
+* NewGame : qui lui permet de lancer une nouvelle partie du jeu de son choix.
+* LoadGame qui lui permet de charger une partie déjà en cours.
+* Interface : qui nous permet de générer une interface pour le User
+* ChooseMode : permet de mettre le jeu en mode Black/White
